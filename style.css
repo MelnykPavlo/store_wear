@@ -1,0 +1,16 @@
+.products-record {
+    overflow: hidden;
+}
+
+.products-record .photo svg, .products-record .photo img {
+    padding: 10px;
+}
+
+.products .bd-placeholder-img.rounded {
+    padding: 10px 10px 10px 0;
+}
+
+.border_new{
+    border: 2px solid black;
+    background-color: #a9d29d;
+}
